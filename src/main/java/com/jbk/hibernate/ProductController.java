@@ -23,7 +23,7 @@ public class ProductController {
 			System.out.println("Press 3 for delete product by id");
 			System.out.println("Press 4 for update product");
 			System.out.println("Press 5 for get all product");
-			System.out.println("Press 6 for get product by id");
+			System.out.println("Press 6 for Get Product by id");
 		
 			
 			 int choice = scanner.nextInt();
